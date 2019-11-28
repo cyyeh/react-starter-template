@@ -3,7 +3,7 @@
   "parserOptions": {
     "ecmaVersion": "2018"
   },
-  "extends": ["eslint:recommended", "eslint-config-prettier", "react-app"],
+  "extends": ["eslint:recommended", "eslint-config-prettier", "eslint-config-react-app"],
   "rules": {
     "no-console": "off"
   },
